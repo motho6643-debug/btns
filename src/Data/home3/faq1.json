@@ -1,0 +1,22 @@
+[
+  {  
+    "title": "What are the key benefits of moving to the cloud?",
+    "desc": "Cloud solutions offer scalability, cost-efficiency, remote accessibility, and enhanced data security. Businesses can reduce infrastructure costs while gaining flexibility to grow or pivot quickly."
+  },
+  {
+    "title": "How secure is my data in the cloud?",
+    "desc": "Leading cloud providers implement robust security protocols including encryption, multi-factor authentication, and compliance with global standards (e.g., ISO, GDPR). However, security also depends on proper configuration and user practices."
+  },
+  {
+     "title": "an cloud services be customized for my industry or workflow?",
+    "desc": "Yes—cloud platforms often offer modular services that can be tailored to specific industries like construction, engineering, or wellness. This includes custom storage, analytics, and automation tools that align with your operational needs."
+  },
+  {  
+    "title": "What’s the difference between public, private, and hybrid cloud models?",
+    "desc": "- Public Cloud: Shared infrastructure managed by a third party (e.g., AWS, Azure).<br>- Private Cloud: Dedicated infrastructure owned and managed by the customer.<br>- Hybrid Cloud: A combination of public and private cloud models."
+  },
+  {
+    "title": "Can cloud platforms work with our current software and infrastructure?",
+    "desc": "Yes. Most modern cloud solutions are designed with interoperability in mind. They support APIs, data migration tools, and integration layers that allow seamless connection with legacy systems, CRMs, ERPs, and even custom-built applications. This means you can transition gradually without disrupting your existing workflows"
+  } 
+]

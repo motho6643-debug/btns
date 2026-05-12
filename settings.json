@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "/bin/bash",
+      "args": []
+    },
+    "sh": {
+      "path": "/bin/sh",
+      "args": []
+    }
+  }
+}

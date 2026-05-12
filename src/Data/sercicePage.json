@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "/assets/img/icons/service-page-icon1.png",
+    "title": "Software & Web Development",
+    "desc": "Custom platforms for web, mobile, and enterprise.MVP development and post-launch scaling.API integrations and performance optimization",   
+    "btnLink": "/service/service-details-dark2"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon2.png",
+    "title": "Cybersecurity & Compliance",
+    "desc": "Threat assessments and vulnerability analysis.Security strategy development and implementation.Compliance audits and data protection protocols",   
+    "btnLink": "/service/service-details-dark3"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon3.png",
+    "title": "Cloud Solution",
+    "desc": "Proactive monitoring and incident response,Helpdesk support and remote troubleshooting.SLA-backed service delivery and reporting",   
+    "btnLink": "/service/service-details-darK6"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon4.png",
+    "title": "DevOps, Automation & AI",
+    "desc": "CI/CD pipelines and container orchestration.AI-powered workflow automation.Infrastructure as Code (IaC) and version control",   
+    "btnLink": "/service/service-details-dark4"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon5.png",
+    "title": "Graphic Design & Marketing",
+    "desc": "Brand identity and visual storytelling.Motion graphics and promotional content.UI/UX design for digital platforms",   
+    "btnLink": "/service/service-details-dark7"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon6.png",
+    "title": "Digital Strategy & Consulting",
+    "desc": "IT roadmap development and tech stack audits.Talent sourcing and team structuring.Business process improvement and innovation planning",   
+    "btnLink": "/service/service-details-dark"
+  }
+]

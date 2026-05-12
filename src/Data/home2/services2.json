@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "/assets/img/icons/service2-icon1.png",
+    "title": "Software Development",
+    "desc": "Custom web and mobile applications built for performance, scalability, and user experience.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon2.png",
+    "title": "Cloud Solutions",
+    "desc": "Flexible IaaS, PaaS, and SaaS platforms to streamline operations and reduce overhead.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box active"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon3.png",
+    "title": "Cybersecurity & Compliance",
+    "desc": "End-to-end threat assessment, vulnerability analysis, and security strategy implementation.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon4.png",
+    "title": "Data Analytics & AI",
+    "desc": "Strategic planning, process optimization, and 24/7 support to keep your systems running smoothly.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon5.png",
+    "title": "Creative Services",
+    "desc": "Graphic design, video production, and branding that connect emotionally and convert effectively.",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  },
+  {
+    "icon": "/assets/img/icons/service2-icon6.png",
+    "title": "Manage It Services",
+    "desc": "Proactive IT monitoring and management Network infrastructure setup and maintenance Services infrastructure",   
+    "btnLink": "/service/service-details",
+    "addClass": "servcie2-box"
+  }   
+]

@@ -1,0 +1,7 @@
+{
+    "codium.codeCompletion.enable": true,
+    "chat.tools.terminal.autoApprove": {
+        "npm install": true
+    },
+    "terminal.integrated.shell.linux": "/bin/bash"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Thabo Mokoena",
+    "rating": "(4.5)",
+    "desc": "BTNS helped us modernize our entire infrastructure with zero downtime. Their DevOps and automation solutions have drastically reduced our operational costs and improved system reliability. Highly recommended for any enterprise in the mining sector.,"
+  },
+  {
+    "title": "Naledi Jacobs",
+    "rating": "(4.0)",
+    "desc": "We needed a custom learning platform for rural schools, and BTNS delivered beyond expectations. Their team was responsive, innovative, and deeply committed to our mission. The software is scalable and easy to maintain—perfect for our growing footprint."
+  },
+  {
+     "title": "Zanele Mthembu",
+     "rating": "(4.5)",
+    "desc": "We worked with BTNS to deploy an internal mental health app for our employees. The UX was intuitive, and the backend was rock-solid. Their understanding of workplace wellbeing and tech integration is truly impressive"
+  },  
+  {
+    "title": "Sipho Dlamini",
+    "rating": "(4.5)",
+    "desc": "I have been thoroughly impressed with the level of service and expertise provided by BTNS. Their team went above and beyond to understand our business needs and deliver a custom software solution. I highly recommend them to anyone looking for top-notch technology solutions."
+  },
+  {
+    "title": "Lungile Nxumalo",
+    "rating": "(4.5)",
+    "desc": "BTNS built our e-commerce platform with full automation and analytics. Their creative team nailed the branding, and the tech team ensured it runs like clockwork. We’ve seen a 300% increase in engagement since launch."
+  },
+  {
+     "title": "Johan van der Merwe",
+     "rating": "(4.5)",
+    "desc": "Developed a custom dashboard for our farm analytics using AI and IoT integration. It’s helped us optimize irrigation and crop yields. Their team understands both tech and local business needs—rare and valuable."
+  }
+]
