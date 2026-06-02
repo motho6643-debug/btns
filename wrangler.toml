@@ -10,4 +10,3 @@ vars = { ENVIRONMENT = "production" }
 
 [assets]
 directory = "./dist"
-binding = "ASSETS"
